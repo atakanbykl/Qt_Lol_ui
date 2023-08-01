@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/apple-logo.png</file>
+        <file>icons/apple-logo-white.png</file>
+        <file>icons/facebook (1).png</file>
+        <file>icons/facebook (2).png</file>
+        <file>icons/facebook.png</file>
+        <file>icons/google.png</file>
+        <file>icons/xbox-logo.png</file>
+        <file>icons/xbox-logo-white.png</file>
+        <file>icons/icon.ico</file>
+        <file>icons/kindred.jpg</file>
+        <file>icons/jhin.jpg</file>
+        <file>icons/Riot_Games_logo_2022.png</file>
+        <file>icons/arrow.png</file>
+        <file>icons/user.png</file>
+        <file>icons/user_white.png</file>
+    </qresource>
+</RCC>
